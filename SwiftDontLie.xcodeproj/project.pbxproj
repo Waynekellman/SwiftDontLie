@@ -14,6 +14,7 @@
 		F1D7D6B122E8D65400B41239 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1D7D6AF22E8D65400B41239 /* LaunchScreen.storyboard */; };
 		F1D7D6BC22E8D65500B41239 /* SwiftDontLieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D7D6BB22E8D65500B41239 /* SwiftDontLieTests.swift */; };
 		F1D7D6C722E8D65500B41239 /* SwiftDontLieUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D7D6C622E8D65500B41239 /* SwiftDontLieUITests.swift */; };
+		F1D7D6D522F6177900B41239 /* GameStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1D7D6D422F6177900B41239 /* GameStoryBoard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F1D7D6C222E8D65500B41239 /* SwiftDontLieUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftDontLieUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1D7D6C622E8D65500B41239 /* SwiftDontLieUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDontLieUITests.swift; sourceTree = "<group>"; };
 		F1D7D6C822E8D65500B41239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1D7D6D422F6177900B41239 /* GameStoryBoard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = GameStoryBoard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F1D7D6AD22E8D65400B41239 /* Assets.xcassets */,
 				F1D7D6AF22E8D65400B41239 /* LaunchScreen.storyboard */,
 				F1D7D6B222E8D65400B41239 /* Info.plist */,
+				F1D7D6D422F6177900B41239 /* GameStoryBoard.storyboard */,
 			);
 			path = SwiftDontLie;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				F1D7D6B122E8D65400B41239 /* LaunchScreen.storyboard in Resources */,
 				F1D7D6AE22E8D65400B41239 /* Assets.xcassets in Resources */,
 				F1D7D6AC22E8D65300B41239 /* Main.storyboard in Resources */,
+				F1D7D6D522F6177900B41239 /* GameStoryBoard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
